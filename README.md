@@ -31,3 +31,13 @@ Pythhon - 데이터 사이언스를 위한 라이브러리(numpy, 텐서플로�
 
 ## numpy
 numerical python = 숫자와 관련한 일을 하는 파이썬 도구
+### numpy와 list의 차이
+numpy 리스트는 사칙연산이 가능하다. + - * / 모두 가능   
+array1 = np.array([1,2,3,4]) 일 때 array1 + 4는 array([5,6,7,8])이 출력된다.  
+numpy에서는 한가지 자료형만 표현 가능하다. [1, 2, True, 5] 불가  
+list에서는 여러가지 자료형을 한번에 묶을 수 있다.   
+numpy 속도처리가 list보다 더 빠르다.   
+수치 계산이 많을 때 numpy가 더 효율적일 것.   
+
+## pandas
+numpy를 기반으로 만들어진 라이브러리.
