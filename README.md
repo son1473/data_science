@@ -1,5 +1,8 @@
 # Understanding Data Science
+> 쥬피터 노트북 여는 방법   
+https://tensorflow.blog/2018/04/19/colab-%ED%8C%81-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%85%B8%ED%8A%B8%EB%B6%81-%EB%B0%94%EB%A1%9C-%EC%97%B4%EA%B8%B0/   
 
+> https://colab.research.google.com/github/다음주소붙여넣기
 ## 데이터 사이언스란?
 데이터 사이언스 = 데이터를 다루는 일
 소프트웨어로 데이터를 모을 수 있다.
